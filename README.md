@@ -11,9 +11,9 @@ This is a simple project that provide greetings as an api that will be connected
 
 To get a local copy up and running follow these simple example steps.
 
-git clone https://github.com/Danieldotcomcoder/hello-react-rails.git
+git clone https://github.com/ishimwezachee/hello-rails-back-end.git
 
-cd hello-react-rails
+cd hello-rails-back-end
 
 ### Setup
 
@@ -42,6 +42,8 @@ rails server
 ```
 
 Open http://localhost:3000/ in your browser.
+
+[FrontEnd_link](https://github.com/ishimwezachee/hello-react-front-end/pull/1)
 
 ### Run tests
 
