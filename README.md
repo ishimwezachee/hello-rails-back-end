@@ -43,7 +43,7 @@ rails server
 
 Open http://localhost:3000/ in your browser.
 
-[FrontEnd_link](https://github.com/ishimwezachee/hello-react-front-end/pull/1)
+[ui-pull-request-link](https://github.com/ishimwezachee/hello-react-front-end/pull/1)
 
 ### Run tests
 
