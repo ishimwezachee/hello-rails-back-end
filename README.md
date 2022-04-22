@@ -1,5 +1,5 @@
 # hello-rails-back-end
-This is a simple project that provide greetings as an api
+This is a simple project that provide greetings as an api that will be connected to react front end project
 
 ## Built With
 
